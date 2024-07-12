@@ -1,0 +1,11 @@
+{
+  "name": "wisedu",
+  "version": "0.0.1",
+  "description": "金智开放平台API - SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "na57@itc.ynu.edu.cn",
+  "license": "MIT"
+}
